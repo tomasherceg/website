@@ -41,8 +41,18 @@ We're also planning our next .NET Conf: "Focus" event, where we continue focusin
 
 ## .NET Foundation Project Updates
 
+### DotVVM
 
+We've published session recordings from our first online event - DotVVM Virtual Conference. Learn how to **build ASP.NET Core web sites with the MVVM approach** or how to **modernize old Web Forms applications using DotVVM**:
 
+* [Intro to DotVVM: What's in it for you](https://www.youtube.com/watch?v=-Dk0gOQxKaU&list=PLq1wAETqUjIZSx6VKcTBXjmnWSYwzU6Sk&index=1)
+* [Thinking in the MVVM way](https://www.youtube.com/watch?v=2iolJ_tgP4g&list=PLq1wAETqUjIZSx6VKcTBXjmnWSYwzU6Sk&index=2)
+* [Progressive Web Apps](https://www.youtube.com/watch?v=e9uvfxWc3So&list=PLq1wAETqUjIZSx6VKcTBXjmnWSYwzU6Sk&index=3)
+* [Modernize your Web Forms apps to .NET Core](https://www.youtube.com/watch?v=b8DIGJksZ4Y&list=PLq1wAETqUjIZSx6VKcTBXjmnWSYwzU6Sk&index=4)
+* [Boost your productivity with DotVVM controls](https://www.youtube.com/watch?v=w1MuGQ-xDMM&list=PLq1wAETqUjIZSx6VKcTBXjmnWSYwzU6Sk&index=5)
+* [Features for faster DotVVM apps](https://www.youtube.com/watch?v=ZnzPMqh04W0&list=PLq1wAETqUjIZSx6VKcTBXjmnWSYwzU6Sk&index=6)
+
+We are now finishing the last features and improvements for **DotVVM 2.5** which will be released very soon.
 
 
 ## New Projects
